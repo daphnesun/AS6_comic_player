@@ -1,0 +1,8 @@
+.slideanimate {
+	visibility: hidden;
+}
+
+.slide {
+	visibility: visible;
+    animation-fill-mode: forwards;
+}
